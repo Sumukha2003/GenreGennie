@@ -1,0 +1,23 @@
+# Python caches and local environments
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.mypy_cache/
+.venv/
+venv/
+
+# Editor and OS files
+.vscode/
+.idea/
+Thumbs.db
+.DS_Store
+
+# Local data and downloaded media
+data/
+data_clean/
+*.mp4
+*.wav
+*.part
+
+# Training outputs we can regenerate locally if needed
+*.log

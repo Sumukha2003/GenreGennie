@@ -1,0 +1,11 @@
+{
+  "task": "family",
+  "validation_accuracy": 0.8199999928474426,
+  "validation_loss": 0.39480042457580566,
+  "train_samples": 4800,
+  "validation_samples": 300,
+  "classes": [
+    "indian",
+    "western"
+  ]
+}

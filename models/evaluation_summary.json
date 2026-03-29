@@ -1,0 +1,14 @@
+{
+  "family": {
+    "validation_accuracy": 0.8199999928474426,
+    "validation_loss": 0.39480042457580566
+  },
+  "western": {
+    "validation_accuracy": 0.42500001192092896,
+    "validation_loss": 2.260115385055542
+  },
+  "indian": {
+    "validation_accuracy": 0.6399999856948853,
+    "validation_loss": 0.9795291423797607
+  }
+}

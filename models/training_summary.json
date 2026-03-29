@@ -1,0 +1,46 @@
+{
+  "family": {
+    "task": "family",
+    "validation_accuracy": 0.8199999928474426,
+    "validation_loss": 0.39480042457580566,
+    "train_samples": 4800,
+    "validation_samples": 300,
+    "classes": [
+      "indian",
+      "western"
+    ]
+  },
+  "western": {
+    "task": "western",
+    "validation_accuracy": 0.42500001192092896,
+    "validation_loss": 2.260115385055542,
+    "train_samples": 3200,
+    "validation_samples": 200,
+    "classes": [
+      "blues",
+      "classical",
+      "country",
+      "disco",
+      "hiphop",
+      "jazz",
+      "metal",
+      "pop",
+      "reggae",
+      "rock"
+    ]
+  },
+  "indian": {
+    "task": "indian",
+    "validation_accuracy": 0.6399999856948853,
+    "validation_loss": 0.9795291423797607,
+    "train_samples": 2400,
+    "validation_samples": 100,
+    "classes": [
+      "mridangam",
+      "sitar",
+      "tabla",
+      "veena",
+      "violin_indian"
+    ]
+  }
+}

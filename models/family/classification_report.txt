@@ -1,0 +1,8 @@
+              precision    recall  f1-score   support
+
+      indian     0.7447    0.7000    0.7216       100
+     western     0.8544    0.8800    0.8670       200
+
+    accuracy                         0.8200       300
+   macro avg     0.7995    0.7900    0.7943       300
+weighted avg     0.8178    0.8200    0.8185       300

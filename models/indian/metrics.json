@@ -1,0 +1,14 @@
+{
+  "task": "indian",
+  "validation_accuracy": 0.6399999856948853,
+  "validation_loss": 0.9795291423797607,
+  "train_samples": 2400,
+  "validation_samples": 100,
+  "classes": [
+    "mridangam",
+    "sitar",
+    "tabla",
+    "veena",
+    "violin_indian"
+  ]
+}

@@ -1,0 +1,10 @@
+streamlit
+numpy
+librosa
+tensorflow
+matplotlib
+joblib
+scikit-learn
+scipy
+soundfile
+

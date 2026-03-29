@@ -1,0 +1,11 @@
+               precision    recall  f1-score   support
+
+    mridangam     0.7308    0.9500    0.8261        20
+        sitar     0.6522    0.7500    0.6977        20
+        tabla     0.4737    0.4500    0.4615        20
+        veena     0.8000    0.4000    0.5333        20
+violin_indian     0.5909    0.6500    0.6190        20
+
+     accuracy                         0.6400       100
+    macro avg     0.6495    0.6400    0.6275       100
+ weighted avg     0.6495    0.6400    0.6275       100

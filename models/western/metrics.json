@@ -1,0 +1,19 @@
+{
+  "task": "western",
+  "validation_accuracy": 0.42500001192092896,
+  "validation_loss": 2.260115385055542,
+  "train_samples": 3200,
+  "validation_samples": 200,
+  "classes": [
+    "blues",
+    "classical",
+    "country",
+    "disco",
+    "hiphop",
+    "jazz",
+    "metal",
+    "pop",
+    "reggae",
+    "rock"
+  ]
+}
